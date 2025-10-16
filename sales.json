@@ -1,0 +1,4576 @@
+[
+  {
+    "date": "2025-09-29 21:45:17",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 14000,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1422338473200717846"
+  },
+  {
+    "date": "2025-09-29 21:45:42",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 470,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1422338576011628575"
+  },
+  {
+    "date": "2025-09-29 22:34:48",
+    "items": [
+      {
+        "name": "Kostka",
+        "price": 800,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 71,
+        "type": "normal"
+      }
+    ],
+    "total": 7900,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422350934373302404"
+  },
+  {
+    "date": "2025-09-29 22:53:22",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1422355606752333845"
+  },
+  {
+    "date": "2025-09-29 23:33:14",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1885,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422365637988061194"
+  },
+  {
+    "date": "2025-09-30 11:41:49",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422548991425646655"
+  },
+  {
+    "date": "2025-09-30 11:43:08",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1075,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422549325476790365"
+  },
+  {
+    "date": "2025-09-30 12:24:27",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 20,
+        "type": "normal"
+      }
+    ],
+    "total": 2300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422559724024627252"
+  },
+  {
+    "date": "2025-09-30 12:29:32",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1070,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422561002515595305"
+  },
+  {
+    "date": "2025-09-30 15:09:53",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422571155276955729"
+  },
+  {
+    "date": "2025-09-30 18:32:57",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1422622262611411057"
+  },
+  {
+    "date": "2025-09-30 18:40:14",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 8700,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422624090832896152"
+  },
+  {
+    "date": "2025-09-30 18:42:40",
+    "items": [
+      {
+        "name": "Trofeum",
+        "price": 2500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 2500,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422624704711098420"
+  },
+  {
+    "date": "2025-09-30 18:43:24",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 410,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1422624889512267911"
+  },
+  {
+    "date": "2025-09-30 19:01:03",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 9850,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422629329522790422"
+  },
+  {
+    "date": "2025-09-30 19:06:33",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 10000,
+    "user": {
+      "avatar": "ba0b4780884109848c108d9066a87df0",
+      "discriminator": "0",
+      "id": "873220687211409448",
+      "username": "niebieskikotek1337"
+    },
+    "phone": null,
+    "discord_message_id": "1422630715891253400"
+  },
+  {
+    "date": "2025-09-30 19:52:34",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 470,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422642294271643848"
+  },
+  {
+    "date": "2025-09-30 21:45:05",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 800,
+    "user": {
+      "avatar": "a_1855f42b18730d792fb099da03f09132",
+      "discriminator": "0",
+      "id": "546719675552366599",
+      "username": "47_zxyzxd"
+    },
+    "phone": null,
+    "discord_message_id": "1422670609627746305"
+  },
+  {
+    "date": "2025-09-30 23:12:43",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422692666659045618"
+  },
+  {
+    "date": "2025-09-30 23:18:46",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422694186548990034"
+  },
+  {
+    "date": "2025-09-30 23:23:52",
+    "items": [
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet damski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 9170,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422695472627322890"
+  },
+  {
+    "date": "2025-09-30 23:47:16",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1422701357932220498"
+  },
+  {
+    "date": "2025-10-01 15:56:30",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1422945276674572379"
+  },
+  {
+    "date": "2025-10-01 16:18:31",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1422950814732910625"
+  },
+  {
+    "date": "2025-10-01 18:42:10",
+    "items": [
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      }
+    ],
+    "total": 765,
+    "user": {
+      "avatar": "6fe64f72e7307682c4f5c010c2e9fde8",
+      "discriminator": "0",
+      "id": "603282192117792798",
+      "username": "mruwa"
+    },
+    "phone": null,
+    "discord_message_id": "1422986965279838338"
+  },
+  {
+    "date": "2025-10-01 19:00:29",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 150,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1422991575612395581"
+  },
+  {
+    "date": "2025-10-01 19:39:49",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7300,
+    "user": {
+      "avatar": "e746be6e4b36e674397fcd971aa69c07",
+      "discriminator": "0",
+      "id": "676177999187410954",
+      "username": "julciiiiaaa_"
+    },
+    "phone": null,
+    "discord_message_id": "1423001475751350353"
+  },
+  {
+    "date": "2025-10-01 19:42:48",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "e746be6e4b36e674397fcd971aa69c07",
+      "discriminator": "0",
+      "id": "676177999187410954",
+      "username": "julciiiiaaa_"
+    },
+    "phone": null,
+    "discord_message_id": "1423002224560181299"
+  },
+  {
+    "date": "2025-10-01 20:43:23",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 100,
+        "type": "normal"
+      }
+    ],
+    "total": 28905,
+    "user": {
+      "avatar": "6fe64f72e7307682c4f5c010c2e9fde8",
+      "discriminator": "0",
+      "id": "603282192117792798",
+      "username": "mruwa"
+    },
+    "phone": null,
+    "discord_message_id": "1423017473933836402"
+  },
+  {
+    "date": "2025-10-01 21:35:13",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1423030517280018495"
+  },
+  {
+    "date": "2025-10-01 21:37:34",
+    "items": [
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      }
+    ],
+    "total": 765,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1423031106743046204"
+  },
+  {
+    "date": "2025-10-02 01:03:39",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 8000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      }
+    ],
+    "total": 9065,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423082968951427218"
+  },
+  {
+    "date": "2025-10-02 02:56:04",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423111262362931200"
+  },
+  {
+    "date": "2025-10-02 03:16:10",
+    "items": [
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 8000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 8000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423116318760243210"
+  },
+  {
+    "date": "2025-10-02 03:40:04",
+    "items": [
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      }
+    ],
+    "total": 765,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423122332481880170"
+  },
+  {
+    "date": "2025-10-02 17:23:03",
+    "items": [
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1065,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423329443468021874"
+  },
+  {
+    "date": "2025-10-02 17:26:13",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 150,
+        "type": "normal"
+      }
+    ],
+    "total": 15000,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423330243510538424"
+  },
+  {
+    "date": "2025-10-02 17:29:50",
+    "items": [
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423331152059695125"
+  },
+  {
+    "date": "2025-10-02 17:49:51",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423336189208821932"
+  },
+  {
+    "date": "2025-10-02 21:12:58",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 30,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423387306496098356"
+  },
+  {
+    "date": "2025-10-02 21:38:12",
+    "items": [
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pudełko Wsparcia (PROMOCJA)",
+        "price": 765,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 0,
+        "quantity": 1,
+        "type": "bundle"
+      }
+    ],
+    "total": 1530,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423393657385390150"
+  },
+  {
+    "date": "2025-10-02 21:55:12",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 65,
+        "type": "normal"
+      }
+    ],
+    "total": 6500,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423397935206367386"
+  },
+  {
+    "date": "2025-10-02 22:32:51",
+    "items": [
+      {
+        "name": "Piłka Promocja",
+        "price": 85,
+        "quantity": 501,
+        "type": "normal"
+      }
+    ],
+    "total": 42585,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1423407405802328187"
+  },
+  {
+    "date": "2025-10-02 23:26:35",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Kostka",
+        "price": 800,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 4505,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1423420930335571970"
+  },
+  {
+    "date": "2025-10-03 00:18:16",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1423433934863073312"
+  },
+  {
+    "date": "2025-10-03 15:23:31",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423661751421108249"
+  },
+  {
+    "date": "2025-10-03 17:01:57",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423686523764604968"
+  },
+  {
+    "date": "2025-10-03 17:04:21",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 100,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1423687125383254106"
+  },
+  {
+    "date": "2025-10-03 19:40:10",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1423726337197211739"
+  },
+  {
+    "date": "2025-10-03 19:42:35",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1423726947208401009"
+  },
+  {
+    "date": "2025-10-03 19:46:31",
+    "items": [
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 710,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1423727937441632407"
+  },
+  {
+    "date": "2025-10-03 21:23:35",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 400,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1423752365496078487"
+  },
+  {
+    "date": "2025-10-03 21:30:42",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1423754154592964722"
+  },
+  {
+    "date": "2025-10-03 21:48:54",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1423758733611237539"
+  },
+  {
+    "date": "2025-10-03 22:48:07",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 1600,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1423773637168599061"
+  },
+  {
+    "date": "2025-10-03 22:50:10",
+    "items": [
+      {
+        "name": "Spadochron Promocja",
+        "price": 5500,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 16500,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1423774152879374448"
+  },
+  {
+    "date": "2025-10-03 23:07:10",
+    "items": [
+      {
+        "name": "Spadochron Promocja",
+        "price": 5500,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 11000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1423778432088805549"
+  },
+  {
+    "date": "2025-10-03 23:28:37",
+    "items": [
+      {
+        "name": "Spadochron Promocja",
+        "price": 5500,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 11000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1423783830661369887"
+  },
+  {
+    "date": "2025-10-04 01:09:31",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 4,
+        "type": "normal"
+      }
+    ],
+    "total": 1200,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1423809220318330932"
+  },
+  {
+    "date": "2025-10-04 13:51:07",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "a_1855f42b18730d792fb099da03f09132",
+      "discriminator": "0",
+      "id": "546719675552366599",
+      "username": "47_zxyzxd"
+    },
+    "phone": null,
+    "discord_message_id": "1424000887021506560"
+  },
+  {
+    "date": "2025-10-04 15:02:42",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1424018897786507438"
+  },
+  {
+    "date": "2025-10-04 15:17:37",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1424022655044157482"
+  },
+  {
+    "date": "2025-10-04 15:52:36",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "a_1855f42b18730d792fb099da03f09132",
+      "discriminator": "0",
+      "id": "546719675552366599",
+      "username": "47_zxyzxd"
+    },
+    "phone": null,
+    "discord_message_id": "1424031458493993020"
+  },
+  {
+    "date": "2025-10-04 17:39:13",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "e746be6e4b36e674397fcd971aa69c07",
+      "discriminator": "0",
+      "id": "676177999187410954",
+      "username": "julciiiiaaa_"
+    },
+    "phone": null,
+    "discord_message_id": "1424058287166591116"
+  },
+  {
+    "date": "2025-10-04 19:13:13",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424081943871361248"
+  },
+  {
+    "date": "2025-10-04 19:39:50",
+    "items": [
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424088642237759571"
+  },
+  {
+    "date": "2025-10-04 19:46:25",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424090300350988421"
+  },
+  {
+    "date": "2025-10-04 19:49:10",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 200,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424090989546569972"
+  },
+  {
+    "date": "2025-10-04 19:51:03",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 100,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424091465671507989"
+  },
+  {
+    "date": "2025-10-04 20:53:05",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424107074748420146"
+  },
+  {
+    "date": "2025-10-04 22:00:51",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1350,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424124130034319461"
+  },
+  {
+    "date": "2025-10-04 22:58:02",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424138521349980373"
+  },
+  {
+    "date": "2025-10-04 22:59:57",
+    "items": [
+      {
+        "name": "Kostka",
+        "price": 800,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 1600,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1424139003623506170"
+  },
+  {
+    "date": "2025-10-04 23:00:45",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 30,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424139204849565727"
+  },
+  {
+    "date": "2025-10-04 23:02:52",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 42,
+        "type": "normal"
+      }
+    ],
+    "total": 4200,
+    "user": {
+      "avatar": "6b68951e72a7979f1ba619848fdb7519",
+      "discriminator": "0",
+      "id": "320539796286078977",
+      "username": "coyocik"
+    },
+    "phone": null,
+    "discord_message_id": "1424139738419433554"
+  },
+  {
+    "date": "2025-10-04 23:07:21",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 9600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424140866506985542"
+  },
+  {
+    "date": "2025-10-04 23:18:58",
+    "items": [
+      {
+        "name": "Piłka (Promocja)",
+        "price": 85,
+        "quantity": 150,
+        "type": "normal"
+      }
+    ],
+    "total": 12750,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424143789047677099"
+  },
+  {
+    "date": "2025-10-04 23:22:45",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 150,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424144741465063607"
+  },
+  {
+    "date": "2025-10-04 23:47:40",
+    "items": [
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 8000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 8000,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424151011253162024"
+  },
+  {
+    "date": "2025-10-05 00:36:50",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 30,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1424163386366627914"
+  },
+  {
+    "date": "2025-10-05 00:47:52",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1500,
+    "user": {
+      "avatar": "a_1855f42b18730d792fb099da03f09132",
+      "discriminator": "0",
+      "id": "546719675552366599",
+      "username": "47_zxyzxd"
+    },
+    "phone": null,
+    "discord_message_id": "1424166162023059617"
+  },
+  {
+    "date": "2025-10-05 00:58:05",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "a_1855f42b18730d792fb099da03f09132",
+      "discriminator": "0",
+      "id": "546719675552366599",
+      "username": "47_zxyzxd"
+    },
+    "phone": null,
+    "discord_message_id": "1424168733949038683"
+  },
+  {
+    "date": "2025-10-05 07:04:54",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 200,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424261046432174201"
+  },
+  {
+    "date": "2025-10-05 07:13:07",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 200,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1424263111510196334"
+  },
+  {
+    "date": "2025-10-05 14:22:49",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424371252998574180"
+  },
+  {
+    "date": "2025-10-05 15:51:07",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424393471925686335"
+  },
+  {
+    "date": "2025-10-05 16:13:58",
+    "items": [
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 1975,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1424399223926821147"
+  },
+  {
+    "date": "2025-10-05 17:29:00",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424418103919640586"
+  },
+  {
+    "date": "2025-10-05 18:32:07",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1424433991020314755"
+  },
+  {
+    "date": "2025-10-05 21:13:35",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1775,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1424474622555979799"
+  },
+  {
+    "date": "2025-10-05 23:18:18",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 8820,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424506010030051398"
+  },
+  {
+    "date": "2025-10-05 23:19:58",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 9000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424506427619409960"
+  },
+  {
+    "date": "2025-10-05 23:55:15",
+    "items": [
+      {
+        "name": "Spadochron (Promocja)",
+        "price": 5500,
+        "quantity": 4,
+        "type": "normal"
+      }
+    ],
+    "total": 22000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424515309943001258"
+  },
+  {
+    "date": "2025-10-06 18:47:42",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1525,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424800300694245387"
+  },
+  {
+    "date": "2025-10-06 18:48:18",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1050,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424800447620841595"
+  },
+  {
+    "date": "2025-10-06 22:25:57",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424855223129608276"
+  },
+  {
+    "date": "2025-10-06 22:46:48",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1424860471147888770"
+  },
+  {
+    "date": "2025-10-06 23:15:30",
+    "items": [
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 3,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 1410,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1424867691461742753"
+  },
+  {
+    "date": "2025-10-07 18:48:52",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 5,
+        "type": "normal"
+      }
+    ],
+    "total": 500,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425162981288837293"
+  },
+  {
+    "date": "2025-10-07 18:49:02",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425163023709900857"
+  },
+  {
+    "date": "2025-10-07 18:49:14",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425163070585438350"
+  },
+  {
+    "date": "2025-10-07 19:54:02",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1425179378647826595"
+  },
+  {
+    "date": "2025-10-07 21:22:42",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425201692785381630"
+  },
+  {
+    "date": "2025-10-07 23:53:38",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 30,
+        "type": "normal"
+      }
+    ],
+    "total": 4500,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1425239675504951389"
+  },
+  {
+    "date": "2025-10-08 00:13:41",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7975,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425244723446288384"
+  },
+  {
+    "date": "2025-10-08 00:15:12",
+    "items": [
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 15,
+        "type": "normal"
+      }
+    ],
+    "total": 4500,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425245103240515625"
+  },
+  {
+    "date": "2025-10-08 13:12:34",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1425440734789763105"
+  },
+  {
+    "date": "2025-10-08 14:52:50",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1425465969912053915"
+  },
+  {
+    "date": "2025-10-08 16:13:33",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 6,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425486282129412314"
+  },
+  {
+    "date": "2025-10-08 16:28:34",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425490059280253050"
+  },
+  {
+    "date": "2025-10-08 16:56:08",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1500,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425496997871226890"
+  },
+  {
+    "date": "2025-10-08 18:04:59",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425514324285329519"
+  },
+  {
+    "date": "2025-10-08 18:51:23",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425526001785639056"
+  },
+  {
+    "date": "2025-10-08 22:38:07",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1200,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1425583060493008957"
+  },
+  {
+    "date": "2025-10-08 22:58:18",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 15250,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1425588141183467590"
+  },
+  {
+    "date": "2025-10-08 23:22:13",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1425594158629912690"
+  },
+  {
+    "date": "2025-10-09 00:27:22",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425610552197120092"
+  },
+  {
+    "date": "2025-10-09 00:31:34",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425611609438683216"
+  },
+  {
+    "date": "2025-10-09 16:18:55",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1425850019583492268"
+  },
+  {
+    "date": "2025-10-09 17:47:32",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 9000,
+    "user": {
+      "avatar": "de2d9fcafbfd98e4341ffd4b8fcb2217",
+      "discriminator": "0",
+      "id": "766366052434706492",
+      "username": "akusiaaa"
+    },
+    "phone": null,
+    "discord_message_id": "1425872320542802092"
+  },
+  {
+    "date": "2025-10-09 19:15:22",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 6,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 1500,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425894423467917507"
+  },
+  {
+    "date": "2025-10-09 20:40:19",
+    "items": [
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425915802397446166"
+  },
+  {
+    "date": "2025-10-09 21:03:27",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 150,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425921623369973810"
+  },
+  {
+    "date": "2025-10-09 21:59:32",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 7,
+        "type": "normal"
+      }
+    ],
+    "total": 2100,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1425935738012434626"
+  },
+  {
+    "date": "2025-10-09 23:34:39",
+    "items": [
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425959674242400439"
+  },
+  {
+    "date": "2025-10-10 00:36:44",
+    "items": [
+      {
+        "name": "Sygnet damski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 8000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 23500,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1425975299052535900"
+  },
+  {
+    "date": "2025-10-10 10:11:27",
+    "items": [
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 6500,
+    "user": {
+      "avatar": "a_d32bf4e788e0703c32e64fbf2e2e1a0d",
+      "discriminator": "0",
+      "id": "1378431766309765171",
+      "username": "mystia1"
+    },
+    "phone": null,
+    "discord_message_id": "1426119929924681778"
+  },
+  {
+    "date": "2025-10-10 15:23:29",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet damski",
+        "price": 9000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 18000,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426198456011067392"
+  },
+  {
+    "date": "2025-10-10 15:26:51",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426199305395634328"
+  },
+  {
+    "date": "2025-10-10 15:40:50",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426202824856829952"
+  },
+  {
+    "date": "2025-10-10 15:41:01",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426202869333491812"
+  },
+  {
+    "date": "2025-10-10 15:45:50",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426204079897579574"
+  },
+  {
+    "date": "2025-10-10 15:47:52",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "de2d9fcafbfd98e4341ffd4b8fcb2217",
+      "discriminator": "0",
+      "id": "766366052434706492",
+      "username": "akusiaaa"
+    },
+    "phone": null,
+    "discord_message_id": "1426204591556657174"
+  },
+  {
+    "date": "2025-10-10 18:06:34",
+    "items": [
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 475,
+    "user": {
+      "avatar": "de2d9fcafbfd98e4341ffd4b8fcb2217",
+      "discriminator": "0",
+      "id": "766366052434706492",
+      "username": "akusiaaa"
+    },
+    "phone": null,
+    "discord_message_id": "1426239498898903071"
+  },
+  {
+    "date": "2025-10-10 23:57:29",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1426327808057020478"
+  },
+  {
+    "date": "2025-10-11 00:14:51",
+    "items": [
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 2400,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1426332180325597345"
+  },
+  {
+    "date": "2025-10-11 00:17:53",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 170,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 4800,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1426332945135833200"
+  },
+  {
+    "date": "2025-10-11 00:35:38",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 14000,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426337411935375402"
+  },
+  {
+    "date": "2025-10-11 01:56:45",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7100,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426357822962270361"
+  },
+  {
+    "date": "2025-10-11 16:23:06",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 100,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426575849666117734"
+  },
+  {
+    "date": "2025-10-11 16:24:38",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 94,
+        "type": "normal"
+      }
+    ],
+    "total": 9400,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426576235328180295"
+  },
+  {
+    "date": "2025-10-11 19:48:01",
+    "items": [
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 4,
+        "type": "normal"
+      }
+    ],
+    "total": 1200,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1426627417690214405"
+  },
+  {
+    "date": "2025-10-11 19:50:40",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 100,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 5000,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1426628082705371210"
+  },
+  {
+    "date": "2025-10-11 22:12:29",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426663774059888682"
+  },
+  {
+    "date": "2025-10-11 22:15:08",
+    "items": [
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 6500,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7400,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426664439620309094"
+  },
+  {
+    "date": "2025-10-11 23:25:54",
+    "items": [
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1426682249251655680"
+  },
+  {
+    "date": "2025-10-11 23:43:18",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426686626427310182"
+  },
+  {
+    "date": "2025-10-12 11:04:28",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426858051373105284"
+  },
+  {
+    "date": "2025-10-12 14:46:49",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1426914004827115623"
+  },
+  {
+    "date": "2025-10-12 17:48:40",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "b6357ed07fcc5c8c565ea06a7e615a06",
+      "discriminator": "0",
+      "id": "696841996081299568",
+      "username": "tysixa"
+    },
+    "phone": null,
+    "discord_message_id": "1426959769109008566"
+  },
+  {
+    "date": "2025-10-12 19:07:06",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1426979506995859657"
+  },
+  {
+    "date": "2025-10-12 19:30:05",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1310,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1426985292942020702"
+  },
+  {
+    "date": "2025-10-12 19:31:57",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1426985761076416646"
+  },
+  {
+    "date": "2025-10-12 19:40:11",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "a5e99d4267bf1a31963a5b41c9ae3df8",
+      "discriminator": "0",
+      "id": "797494104208572416",
+      "username": "lestra__"
+    },
+    "phone": null,
+    "discord_message_id": "1426987835357007955"
+  },
+  {
+    "date": "2025-10-12 19:45:21",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1426989132516950106"
+  },
+  {
+    "date": "2025-10-12 19:47:15",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 820,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1426989613406224454"
+  },
+  {
+    "date": "2025-10-12 21:46:01",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "1f3407fe78df02891d834b68470e4746",
+      "discriminator": "0",
+      "id": "1338999005295808523",
+      "username": "yellowekk"
+    },
+    "phone": null,
+    "discord_message_id": "1427019499562991616"
+  },
+  {
+    "date": "2025-10-13 15:07:52",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1427281692741341246"
+  },
+  {
+    "date": "2025-10-13 18:00:12",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 900,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1427325059080519764"
+  },
+  {
+    "date": "2025-10-13 18:24:56",
+    "items": [
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 110,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 110,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1427331284702859446"
+  },
+  {
+    "date": "2025-10-13 19:45:36",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1427351585394004091"
+  },
+  {
+    "date": "2025-10-14 00:19:04",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 14000,
+    "user": {
+      "avatar": "e746be6e4b36e674397fcd971aa69c07",
+      "discriminator": "0",
+      "id": "676177999187410954",
+      "username": "julciiiiaaa_"
+    },
+    "phone": null,
+    "discord_message_id": "1427420406381547643"
+  },
+  {
+    "date": "2025-10-14 00:22:14",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 14000,
+    "user": {
+      "avatar": "05d4aa987846b2287a8066223dd06782",
+      "discriminator": "0",
+      "id": "1219793598250356860",
+      "username": "aheezu"
+    },
+    "phone": null,
+    "discord_message_id": "1427421203383062643"
+  },
+  {
+    "date": "2025-10-14 13:36:35",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1427621108638683147"
+  },
+  {
+    "date": "2025-10-14 13:54:32",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 400,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 175,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 1775,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1427625624889200703"
+  },
+  {
+    "date": "2025-10-14 15:39:59",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 7000,
+    "user": {
+      "avatar": "c1ef123a35f86945abcb6100a02e3cae",
+      "discriminator": "0",
+      "id": "442624839166197760",
+      "username": ".bastians"
+    },
+    "phone": null,
+    "discord_message_id": "1427652159612125335"
+  },
+  {
+    "date": "2025-10-14 19:22:30",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 300,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1427708157819621447"
+  },
+  {
+    "date": "2025-10-15 00:02:22",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 7000,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 14000,
+    "user": {
+      "avatar": "ba0b4780884109848c108d9066a87df0",
+      "discriminator": "0",
+      "id": "873220687211409448",
+      "username": "niebieskikotek1337"
+    },
+    "phone": null,
+    "discord_message_id": "1427778591780769913"
+  },
+  {
+    "date": "2025-10-15 20:26:11",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": "1428086574448508959"
+  },
+  {
+    "date": "2025-10-15 22:04:17",
+    "items": [
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 5,
+        "type": "normal"
+      }
+    ],
+    "total": 1500,
+    "user": {
+      "avatar": "c6dc5c0219061d2299d8d8b3f376fd26",
+      "discriminator": "0",
+      "id": "1257718984229388329",
+      "username": "podlocik"
+    },
+    "phone": null,
+    "discord_message_id": "1428111260419100783"
+  },
+  {
+    "date": "2025-10-16 20:37:34",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 300,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 300,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 4800,
+    "user": {
+      "avatar": "668305104630476bb617945d5c79c6d9",
+      "discriminator": "0",
+      "id": "827171938798534687",
+      "username": "widulson7821"
+    },
+    "phone": null,
+    "discord_message_id": "1428451825736089732"
+  },
+  {
+    "date": "2025-10-16 21:24:46",
+    "items": [
+      {
+        "name": "Bukiet kwiatów",
+        "price": 300,
+        "quantity": 2,
+        "type": "normal"
+      }
+    ],
+    "total": 600,
+    "user": {
+      "avatar": "d9fffa8e7515481fbb3c98454a9d4e96",
+      "discriminator": "0",
+      "id": "600388384229294110",
+      "username": "_jajami_o_mate"
+    },
+    "phone": null,
+    "discord_message_id": null
+  }
+]

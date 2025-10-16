@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Balon w kształcie serca",
+    "price": 50,
+    "emoji": "🎈"
+  },
+  {
+    "name": "Bombonierka",
+    "price": 75,
+    "emoji": "💝"
+  },
+  {
+    "name": "Cygaro",
+    "price": 125,
+    "emoji": "🚬"
+  },
+  {
+    "name": "Mały bukiet kwiatów",
+    "price": 55,
+    "emoji": "💐"
+  },
+  {
+    "name": "Mały prezent",
+    "price": 85,
+    "emoji": "🎁"
+  },
+  {
+    "name": "Obrączka",
+    "price": 3500,
+    "emoji": "💍"
+  },
+  {
+    "name": "Spadochron",
+    "price": 2500,
+    "emoji": "🪂"
+  },
+  {
+    "name": "Pluszowa kapibara",
+    "price": 150,
+    "emoji": "🦫"
+  },
+  {
+    "name": "Szampan",
+    "price": 150,
+    "emoji": "🍾"
+  },
+  {
+    "name": "Kostka",
+    "price": 500,
+    "emoji": "🎲"
+  },
+  {
+    "name": "Trofeum",
+    "price": 1500,
+    "emoji": "🏆"
+  },
+  {
+    "name": "Srebrny pierścionek",
+    "price": 4500,
+    "emoji": "💍"
+  },
+  {
+    "name": "Pluszowy dinozaur",
+    "price": 150,
+    "emoji": "🦖"
+  },
+  {
+    "name": "Whiskey",
+    "price": 150,
+    "emoji": "🥃"
+  },
+  {
+    "name": "Prezent",
+    "price": 200,
+    "emoji": "🎁"
+  },
+  {
+    "name": "Bukiet kwiatów",
+    "price": 150,
+    "emoji": "💐"
+  },
+  {
+    "name": "Pluszowy miś",
+    "price": 150,
+    "emoji": "🧸"
+  },
+  {
+    "name": "Wódka",
+    "price": 150,
+    "emoji": "🍶"
+  },
+  {
+    "name": "Wino",
+    "price": 150,
+    "emoji": "🍷"
+  },
+  {
+    "name": "Pierścionek zaręczynowy",
+    "price": 5000,
+    "emoji": "💍"
+  },
+  {
+    "name": "Sygnet męski",
+    "price": 5500,
+    "emoji": "💍"
+  },
+  {
+    "name": "Sygnet damski",
+    "price": 5500,
+    "emoji": "💍"
+  },
+  {
+    "name": "Piłka",
+    "price": 50,
+    "emoji": "⚾️"
+  },
+  {
+    "name": "Skrzynia",
+    "price": 350000,
+    "emoji": "🕋"
+  }
+]

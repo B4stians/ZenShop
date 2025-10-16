@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Sprzedane</h2>
+
+{% for s in sales %}
+<div class="receipt">
+  <p><b>Data:</b> {{ s.date }}</p>
+
+  {% if s.user %}
+    <p><b>Zatwierdził:</b> {{ s.user.username }}#{{ s.user.discriminator }} (id: {{ s.user.id }})</p>
+  {% endif %}
+
+  {% if s.phone %}
+    <p><b>Telefon:</b> {{ s.phone }}</p>
+  {% endif %}
+
+  <ul>
+    {% for it in s["items"] %}
+      <li>
+        {{ it.name }} x{{ it.quantity }} ({{ it.price }} $/szt.)
+        {% if it.type == "order" %} - do realizacji{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  <p><b>Suma paragonu:</b> {{ s.total }} $</p>
+
+  <form action="{{ url_for('delete_sale', index=loop.index0) }}" method="post" style="display:inline;">
+    <button type="submit">Usuń ❌</button>
+  </form>
+</div>
+
+{% endfor %}
+{% endblock %}

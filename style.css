@@ -1,0 +1,133 @@
+body {
+  background: #121212;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background: linear-gradient(90deg,#1f1f1f,#2e2e2e);
+  border-bottom: 1px solid #333;
+}
+nav a {
+  color: #3cf779;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+nav a:hover { text-decoration: underline; }
+
+.stats { color:#3cf779; font-size:14px; }
+
+.container {
+  display: flex;
+  gap: 25px;
+  max-width: 1100px;
+  margin: 30px auto;
+}
+
+.products, .cart {
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  flex:1;
+}
+
+.item {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  border:1px solid #333;
+  padding:12px;
+  margin-bottom:12px;
+  border-radius:10px;
+  background:#252525;
+  transition:transform .2s;
+}
+.item:hover { transform:scale(1.02); }
+
+.item .thumb, .item .emoji-thumb {
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+.item-info { flex:1; }
+
+button {
+  background:#3cf779;
+  border:none;
+  padding:6px 12px;
+  cursor:pointer;
+  border-radius:6px;
+  font-weight:600;
+  margin-left: 6px;
+}
+button:hover { background:#33dd6c; }
+
+.cart ul { list-style:none; padding:0; }
+.cart li { margin-bottom:6px; }
+
+.receipt {
+  border:1px solid #333;
+  margin:10px 0;
+  padding:12px;
+  border-radius:8px;
+  background:#1b1b1b;
+}
+#search {
+  width: 100%;
+  max-width: 400px;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1f1f1f;
+  color: #eee;
+}
+#search:focus { outline:none; border-color:#3cf779; }
+
+.header-block {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header-block h2 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+  color: #3cf779;
+}
+
+#search {
+  width: 90%;
+  max-width: 400px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1f1f1f;
+  color: #eee;
+}
+#search:focus {
+  outline: none;
+  border-color: #3cf779;
+}
+/* przyciski w jednej linii */
+.button-group {
+  display: flex;
+  gap: 6px;        /* odstęp między przyciskami */
+  justify-content: flex-start; /* lewo wyrównane */
+  margin-top: 6px; /* mały odstęp od tekstu powyżej */
+}
+
+/* dodatkowy odstęp między grupami */
+.item .button-group + .button-group {
+  margin-top: 10px; /* oddziela "Zamów" od "Dodaj" */
+}
+

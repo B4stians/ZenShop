@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Logowanie Magazyn</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    body { display:flex; justify-content:center; align-items:center; height:100vh; background:#222; color:#fff; }
+    .login-box { background:#333; padding:20px; border-radius:10px; }
+    input[type=password] { padding:10px; margin:10px 0; width:100%; border:none; border-radius:5px; }
+    button { padding:10px 15px; background:#28a745; border:none; border-radius:5px; color:#fff; cursor:pointer; }
+    button:hover { background:#218838; }
+    .error { color:red; }
+  </style>
+</head>
+<body>
+  <div class="login-box">
+    <h2>🔒 Logowanie do Magazynu</h2>
+    {% if error %}<p class="error">{{ error }}</p>{% endif %}
+    <form method="post">
+      <input type="password" name="password" placeholder="Hasło">
+      <button type="submit">Zaloguj</button>
+    </form>
+  </div>
+</body>
+</html>

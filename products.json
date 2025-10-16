@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Pudełko Wsparcia (PROMOCJA)",
+    "price": 765,
+    "emoji": "🎀 💗",
+    "stock": 991
+  },
+  {
+    "name": "Balon w kształcie serca",
+    "price": 150,
+    "emoji": "🎈",
+    "stock": 100
+  },
+  {
+    "name": "Bombonierka",
+    "price": 175,
+    "emoji": "💝",
+    "stock": 19
+  },
+  {
+    "name": "Cygaro",
+    "price": 300,
+    "emoji": "🚬",
+    "stock": 20
+  },
+  {
+    "name": "Mały bukiet kwiatów",
+    "price": 110,
+    "emoji": "💐",
+    "stock": 20
+  },
+  {
+    "name": "Mały prezent",
+    "price": 170,
+    "emoji": "🎁",
+    "stock": 20
+  },
+  {
+    "name": "Obrączka",
+    "price": 6000,
+    "emoji": "💍",
+    "stock": 2
+  },
+  {
+    "name": "Spadochron",
+    "price": 7000,
+    "emoji": "🪂",
+    "stock": 4
+  },
+  {
+    "name": "Pluszowa kapibara",
+    "price": 300,
+    "emoji": "🦫",
+    "stock": 17
+  },
+  {
+    "name": "Szampan",
+    "price": 300,
+    "emoji": "🍾",
+    "stock": 20
+  },
+  {
+    "name": "Kostka",
+    "price": 800,
+    "emoji": "🎲",
+    "stock": 20
+  },
+  {
+    "name": "Trofeum",
+    "price": 2500,
+    "emoji": "🏆",
+    "stock": 1
+  },
+  {
+    "name": "Srebrny pierścionek",
+    "price": 6500,
+    "emoji": "💍",
+    "stock": 10
+  },
+  {
+    "name": "Pluszowy dinozaur",
+    "price": 300,
+    "emoji": "🦖",
+    "stock": 20
+  },
+  {
+    "name": "Whiskey",
+    "price": 300,
+    "emoji": "🥃",
+    "stock": 39
+  },
+  {
+    "name": "Prezent",
+    "price": 400,
+    "emoji": "🎁",
+    "stock": 19
+  },
+  {
+    "name": "Bukiet kwiatów",
+    "price": 300,
+    "emoji": "💐",
+    "stock": 14
+  },
+  {
+    "name": "Pluszowy miś",
+    "price": 300,
+    "emoji": "🧸",
+    "stock": 20
+  },
+  {
+    "name": "Wódka",
+    "price": 300,
+    "emoji": "🍶",
+    "stock": 9
+  },
+  {
+    "name": "Wino",
+    "price": 300,
+    "emoji": "🍷",
+    "stock": 10
+  },
+  {
+    "name": "Pierścionek zaręczynowy",
+    "price": 8000,
+    "emoji": "💍",
+    "stock": 5
+  },
+  {
+    "name": "Sygnet męski",
+    "price": 9000,
+    "emoji": "💍",
+    "stock": 10
+  },
+  {
+    "name": "Sygnet damski",
+    "price": 9000,
+    "emoji": "💍",
+    "stock": 10
+  },
+  {
+    "name": "Piłka",
+    "price": 100,
+    "emoji": "⚾️",
+    "stock": 500
+  },
+  {
+    "name": "Skrzynia",
+    "price": 450000,
+    "emoji": "🕋",
+    "stock": 0
+  }
+]

@@ -1,0 +1,272 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="header-block">
+  <h2>Zen Events Sprzedaż</h2>
+  <input type="text" id="search" placeholder="Szukaj produktu...">
+  {% if discord_user %}
+    <span style="margin-left:1rem;">
+      Zalogowany: {{ discord_user.username }}#{{ discord_user.discriminator }}
+    </span>
+  {% else %}
+    <span style="margin-left:1rem;">Nie zalogowano</span>
+  {% endif %}
+</div>
+
+<div class="container">
+  <div class="products">
+    {% for p in products %}
+    <div class="item"
+         data-name="{{p.name}}"
+         data-price="{{p.price}}"
+         data-stock="{{p.stock}}">
+      {% if p.emoji %}
+        <div class="emoji-thumb">{{ p.emoji }}</div>
+      {% else %}
+        <img src="{{ url_for('static', filename=p.image) }}" alt="{{p.name}}" class="thumb">
+      {% endif %}
+      <div class="item-info">
+        <p><strong>{{p.name}}</strong></p>
+        <p>{{p.price}} $ <span class="stock">(ilość: {{p.stock}})</span></p>
+
+        <!-- Przycisk "Dodaj" -->
+        <div class="button-group">
+          <button class="add" data-qty="1">Dodaj 1</button>
+          <button class="add" data-qty="10">Dodaj 10</button>
+          <button class="add" data-qty="50">Dodaj 50</button>
+        </div>
+
+        <!-- Przycisk "Zamów" -->
+        <div class="button-group column" style="margin-top:10px;">
+          <button class="order" data-qty="1">Zamów 1</button>
+          <button class="order" data-qty="10">Zamów 10</button>
+          <button class="order" data-qty="50">Zamów 50</button>
+        </div>
+
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="cart">
+    <h3>Koszyk</h3>
+    <ul id="cart-list"></ul>
+    <p><strong>Suma:</strong> <span id="total">0</span> $</p>
+    <button id="pay">Zatwierdź sprzedaż</button>
+  </div>
+</div>
+
+<script>
+let cart = [];
+
+// ---------- aktualizacja koszyka ----------
+function updateCart(){
+  let list = $("#cart-list").empty();
+  let total = 0;
+  cart.forEach((item,i)=>{
+    total += item.price * item.quantity;
+    list.append(`<li>${item.name} x${item.quantity} - ${item.price*item.quantity}$
+      ${item.type==="order" ? " (do realizacji)" : ""}
+      <button onclick="removeItem(${i})">-</button></li>`);
+  });
+  $("#total").text(total);
+}
+
+function removeItem(i){
+  cart.splice(i, 1);
+  updateCart();
+}
+
+// ---------- specjalna funkcja dla Pudełka Wsparcia ----------
+function addSupportBox(qty) {
+  let plushies = ["Pluszowa kapibara", "Pluszowy dinozaur", "Pluszowy miś"];
+  let choice = prompt("Wybierz pluszaka:\n1 - Kapibara\n2 - Dinozaur\n3 - Miś");
+  let plushName = null;
+
+  if(choice === "1") plushName = plushies[0];
+  else if(choice === "2") plushName = plushies[1];
+  else if(choice === "3") plushName = plushies[2];
+  else {
+    alert("Nie wybrano poprawnie pluszaka!");
+    return;
+  }
+
+  cart.push({
+    name: "Pudełko Wsparcia (PROMOCJA) + " + plushName,
+    price: 765,
+    quantity: qty,
+    type: "normal",
+    bundle: {
+      plush: plushName,
+      extras: ["Prezent", "Balon w kształcie serca", "Bombonierka"]
+    }
+  });
+
+  updateCart();
+}
+
+// ---------- normalny zakup ----------
+$(".add").click(function(){
+  let parent = $(this).closest(".item");
+  let name  = parent.data("name");
+  let price = parent.data("price");
+  let stock = parent.data("stock");
+  let qtyToAdd = parseInt($(this).data("qty") || 1);
+
+  if(name === "Pudełko Wsparcia (PROMOCJA)") {
+    addSupportBox(qtyToAdd);
+    return;
+  }
+
+  let existing  = cart.find(c => c.name===name && c.type==="normal");
+  let currentQty = existing ? existing.quantity : 0;
+
+  if(currentQty + qtyToAdd <= stock){
+    if(existing) existing.quantity += qtyToAdd;
+    else cart.push({name, price, quantity: qtyToAdd, type:"normal"});
+    updateCart();
+  } else {
+    alert("Brak wystarczającej ilości w magazynie!");
+  }
+});
+
+// ---------- zamówienie do realizacji ----------
+$(".order").click(function(){
+  let parent = $(this).closest(".item");
+  let name  = parent.data("name");
+  let price = parent.data("price");
+  let qty = $(this).data("qty") || 1;
+
+  let existing = cart.find(c => c.name===name && c.type==="order");
+  if(existing) existing.quantity += qty;
+  else cart.push({name, price, quantity: qty, type:"order"});
+  updateCart();
+});
+
+// ---------- wysłanie na backend ----------
+$("#pay").click(function(){
+  if(cart.length === 0) return;
+
+  let hasOrder = cart.some(c => c.type === "order");
+  let phone = null;
+  if(hasOrder){
+    phone = prompt("Podaj numer telefonu dla zamówienia (np. +48 600 000 000):");
+    if(phone === null){ return; }
+    phone = phone.trim();
+    if(phone.length === 0){
+      alert("Numer telefonu jest wymagany dla zamówienia.");
+      return;
+    }
+  }
+
+  let discordLogged = {{ 'true' if discord_user else 'false' }};
+
+  if(!discordLogged){
+    sessionStorage.setItem("pending_cart", JSON.stringify(cart));
+    sessionStorage.setItem("pending_phone", phone || "");
+    window.location.href = "{{ url_for('discord_login') }}";
+    return;
+  }
+
+  // --- rozpakowanie pudełka wsparcia ---
+  let finalCart = [];
+  cart.forEach(item => {
+    if(item.name.startsWith("Pudełko Wsparcia")) {
+      finalCart.push({name: "Pudełko Wsparcia (PROMOCJA)", price: item.price, quantity: item.quantity, type: item.type});
+      item.bundle.extras.forEach(extra => {
+        finalCart.push({name: extra, price: 0, quantity: item.quantity, type: "bundle"});
+      });
+      finalCart.push({name: item.bundle.plush, price: 0, quantity: item.quantity, type: "bundle"});
+    } else {
+      finalCart.push(item);
+    }
+  });
+
+  $.ajax({
+    url: "{{ url_for('sell') }}",
+    type: "POST",
+    contentType: "application/json",
+    data: JSON.stringify({cart: finalCart, phone}),
+    success: () => {
+      cart = [];
+      updateCart();
+      alert("Sprzedaż zapisana!");
+      window.location.href = window.location.href + "?t=" + Date.now();
+    },
+    error: (xhr) => {
+      if(xhr.responseJSON && xhr.responseJSON.message){
+        alert(xhr.responseJSON.message);
+      } else {
+        alert("Błąd przy zapisie sprzedaży!");
+      }
+    }
+  });
+});
+
+// ---------- OAuth: automatyczne wysłanie po zalogowaniu ----------
+$(document).ready(function(){
+  try {
+    let pending = sessionStorage.getItem("pending_cart");
+    let pendingPhone = sessionStorage.getItem("pending_phone");
+    if(pending && {{ 'true' if discord_user else 'false' }}){
+      let pendingCart = JSON.parse(pending);
+
+      // rozpakowanie pudełek przy automatycznym wysyłaniu
+      let finalCart = [];
+      pendingCart.forEach(item => {
+        if(item.name.startsWith("Pudełko Wsparcia")) {
+          finalCart.push({name: "Pudełko Wsparcia (PROMOCJA)", price: item.price, quantity: item.quantity, type: item.type});
+          item.bundle.extras.forEach(extra => {
+            finalCart.push({name: extra, price: 0, quantity: item.quantity, type: "bundle"});
+          });
+          finalCart.push({name: item.bundle.plush, price: 0, quantity: item.quantity, type: "bundle"});
+        } else {
+          finalCart.push(item);
+        }
+      });
+
+      $.ajax({
+        url: "{{ url_for('sell') }}",
+        type: "POST",
+        contentType: "application/json",
+        data: JSON.stringify({cart: finalCart, phone: pendingPhone || null}),
+        success: () => {
+          sessionStorage.removeItem("pending_cart");
+          sessionStorage.removeItem("pending_phone");
+          alert("Sprzedaż zapisana po zalogowaniu!");
+          location.reload();
+        },
+        error: (xhr) => {
+          console.error("Błąd przy automatycznym wysyłaniu po OAuth:", xhr);
+        }
+      });
+    }
+  } catch(e){
+    console.error(e);
+  }
+});
+
+// ---------- wyszukiwarka ----------
+$("#search").on("input", function(){
+  let term = $(this).val().toLowerCase();
+  $(".products .item").each(function(){
+    let name = $(this).data("name").toLowerCase();
+    $(this).toggle(name.includes(term));
+  });
+});
+
+// ---------- automatyczne odświeżanie stanów magazynowych ----------
+fetch("/api/products?_=" + Date.now())
+  .then(res => res.json())
+  .then(data => {
+    data.forEach(p => {
+      let el = $(`.item[data-name='${p.name}']`);
+      el.find(".stock").text(`(ilość: ${p.stock})`);
+      el.data("stock", p.stock);
+    });
+  })
+  .catch(err => console.error("Nie udało się pobrać aktualnych danych produktów:", err));
+
+</script>
+
+{% endblock %}

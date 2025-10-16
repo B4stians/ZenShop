@@ -1,0 +1,118 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="header-block">
+  <h2>Zen Events Magazyn</h2>
+  <input type="text" id="search" placeholder="Szukaj produktu w magazynie...">
+</div>
+
+<div class="container">
+  <div class="products">
+  {% for p in products %}
+  <div class="item" data-name="{{p.name}}" data-price="{{p.price}}">
+    {% if p.emoji %}
+      <div class="emoji-thumb">{{ p.emoji }}</div>
+    {% else %}
+      <img src="{{ url_for('static', filename=p.image) }}" alt="{{p.name}}" class="thumb">
+    {% endif %}
+    <div class="item-info">
+      <p><strong>{{p.name}}</strong></p>
+      <p>{{p.price}} $</p>
+
+      <!-- Przyciski dodawania -->
+      <div class="button-group">
+        <button class="add" data-qty="1">Dodaj 1</button>
+        <button class="add" data-qty="10">Dodaj 10</button>
+        <button class="add" data-qty="50">Dodaj 50</button>
+      </div>
+
+      <!-- Przyciski zamówienia -->
+      <div class="button-group column" style="margin-top:10px;">
+        <button class="order" data-qty="1">Zamów 1</button>
+        <button class="order" data-qty="10">Zamów 10</button>
+        <button class="order" data-qty="50">Zamów 50</button>
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+
+  <div class="cart">
+    <h3>Koszyk (Magazyn)</h3>
+    <ul id="cart-list"></ul>
+    <p><strong>Suma:</strong> <span id="total">0</span> $</p>
+    <button id="pay">Zatwierdź zamówienie</button>
+  </div>
+</div>
+
+<script>
+let cart = [];
+
+function updateCart(){
+  let list = $("#cart-list").empty();
+  let total = 0;
+  cart.forEach((item,i)=>{
+    total += item.price * item.quantity;
+    list.append(`<li>${item.name} x${item.quantity} - ${item.price*item.quantity}$
+    ${item.type==="order" ? " (do realizacji)" : ""}
+    <button onclick="removeItem(${i})">-</button></li>`);
+  });
+  $("#total").text(total);
+}
+
+function removeItem(i){
+  cart[i].quantity--;
+  if(cart[i].quantity <= 0) cart.splice(i,1);
+  updateCart();
+}
+
+// ---------- Dodawanie produktów ----------
+$(".add").click(function(){
+  let qty = parseInt($(this).data("qty")) || 1;
+  let name = $(this).closest(".item").data('name');
+  let price = $(this).closest(".item").data('price');
+  let existing = cart.find(c => c.name===name && c.type==="normal");
+  if(existing) existing.quantity += qty;
+  else cart.push({name, price, quantity: qty, type:"normal"});
+  updateCart();
+});
+
+// ---------- Zamawianie produktów ----------
+$(".order").click(function(){
+  let qty = parseInt($(this).data("qty")) || 1;
+  let name = $(this).closest(".item").data('name');
+  let price = $(this).closest(".item").data('price');
+  let existing = cart.find(c => c.name===name && c.type==="order");
+  if(existing) existing.quantity += qty;
+  else cart.push({name, price, quantity: qty, type:"order"});
+  updateCart();
+});
+
+// ---------- Zatwierdzanie ----------
+$("#pay").click(function(){
+  if(cart.length===0) return;
+  $.ajax({
+    url:"{{ url_for('magazyn_sell') }}",
+    type:"POST",
+    contentType:"application/json",
+    data:JSON.stringify({cart}),
+    success:()=>{
+      cart=[];
+      updateCart();
+      alert("Zamówienie zapisane!");
+    }
+  });
+});
+
+// ---------- Wyszukiwarka ----------
+$("#search").on("input", function(){
+  let term = $(this).val().toLowerCase();
+  $(".products .item").each(function(){
+    let name = $(this).data("name").toLowerCase();
+    $(this).toggle(name.includes(term));
+  });
+});
+</script>
+
+{% endblock %}

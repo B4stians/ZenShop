@@ -1,0 +1,611 @@
+[
+  {
+    "date": "2025-09-29 21:05:27",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 500,
+        "type": "normal"
+      }
+    ],
+    "total": 25000,
+    "discord_message_id": "1422328450286485604"
+  },
+  {
+    "date": "2025-09-29 21:05:41",
+    "items": [
+      {
+        "name": "Pluszowa kapibara",
+        "price": 150,
+        "quantity": 30,
+        "type": "normal"
+      }
+    ],
+    "total": 4500,
+    "discord_message_id": "1422328507274362950"
+  },
+  {
+    "date": "2025-09-29 21:07:18",
+    "items": [
+      {
+        "name": "Pluszowy miś",
+        "price": 150,
+        "quantity": 30,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 125,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 5000,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 4500,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 150,
+        "quantity": 23,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 150,
+        "quantity": 13,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 150,
+        "quantity": 30,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 150,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Kostka",
+        "price": 500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 90900,
+    "discord_message_id": "1422328912142405764"
+  },
+  {
+    "date": "2025-09-30 12:08:01",
+    "items": [
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 55,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 550,
+    "discord_message_id": "1422555586637205545"
+  },
+  {
+    "date": "2025-09-30 19:06:03",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 5500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 5500,
+    "discord_message_id": "1422630589944692736"
+  },
+  {
+    "date": "2025-09-30 21:40:55",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 50,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 2500,
+    "discord_message_id": "1422669562809417801"
+  },
+  {
+    "date": "2025-09-30 21:45:57",
+    "items": [
+      {
+        "name": "Prezent",
+        "price": 200,
+        "quantity": 20,
+        "type": "normal"
+      }
+    ],
+    "total": 4000,
+    "discord_message_id": "1422670830030159882"
+  },
+  {
+    "date": "2025-10-01 20:47:25",
+    "items": [
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 150,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 150,
+        "quantity": 10,
+        "type": "normal"
+      }
+    ],
+    "total": 3000,
+    "discord_message_id": "1423018487542190112"
+  },
+  {
+    "date": "2025-10-02 19:38:42",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 6,
+        "type": "normal"
+      }
+    ],
+    "total": 15000,
+    "discord_message_id": "1423363579700052079"
+  },
+  {
+    "date": "2025-10-02 19:43:53",
+    "items": [
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 55,
+        "quantity": 14,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 150,
+        "quantity": 9,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet damski",
+        "price": 5500,
+        "quantity": 6,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 75,
+        "quantity": 11,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 150,
+        "quantity": 8,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 200,
+        "quantity": 7,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 150,
+        "quantity": 15,
+        "type": "normal"
+      }
+    ],
+    "total": 40795,
+    "discord_message_id": "1423364885173244047"
+  },
+  {
+    "date": "2025-10-02 21:54:41",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 500,
+        "type": "normal"
+      }
+    ],
+    "total": 25000,
+    "discord_message_id": "1423397802729275495"
+  },
+  {
+    "date": "2025-10-02 22:44:48",
+    "items": [
+      {
+        "name": "Cygaro",
+        "price": 125,
+        "quantity": 20,
+        "type": "normal"
+      }
+    ],
+    "total": 2500,
+    "discord_message_id": "1423410413571408124"
+  },
+  {
+    "date": "2025-10-03 00:12:56",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 150,
+        "type": "normal"
+      }
+    ],
+    "total": 7500,
+    "discord_message_id": "1423432596205080586"
+  },
+  {
+    "date": "2025-10-04 19:46:16",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 2500,
+    "discord_message_id": "1424090261205811240"
+  },
+  {
+    "date": "2025-10-04 20:52:20",
+    "items": [
+      {
+        "name": "Wódka",
+        "price": 150,
+        "quantity": 3,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 125,
+        "quantity": 3,
+        "type": "normal"
+      }
+    ],
+    "total": 825,
+    "discord_message_id": "1424106888336773190"
+  },
+  {
+    "date": "2025-10-04 22:52:14",
+    "items": [
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 200,
+        "type": "normal"
+      }
+    ],
+    "total": 10000,
+    "discord_message_id": "1424137060050014364"
+  },
+  {
+    "date": "2025-10-04 23:04:11",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 5500,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 50,
+        "type": "normal"
+      }
+    ],
+    "total": 8000,
+    "discord_message_id": "1424140068616012007"
+  },
+  {
+    "date": "2025-10-05 23:19:45",
+    "items": [
+      {
+        "name": "Sygnet męski",
+        "price": 5500,
+        "quantity": 1,
+        "type": "normal"
+      }
+    ],
+    "total": 5500,
+    "discord_message_id": "1424506374641160324"
+  },
+  {
+    "date": "2025-10-05 23:45:14",
+    "items": [
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 200,
+        "type": "normal"
+      }
+    ],
+    "total": 35000,
+    "discord_message_id": "1424512786326884452"
+  },
+  {
+    "date": "2025-10-07 16:05:20",
+    "items": [
+      {
+        "name": "Bombonierka",
+        "price": 75,
+        "quantity": 6,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 125,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 55,
+        "quantity": 1,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 85,
+        "quantity": 12,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 2,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 150,
+        "quantity": 11,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 150,
+        "quantity": 13,
+        "type": "normal"
+      },
+      {
+        "name": "Kostka",
+        "price": 500,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 4500,
+        "quantity": 3,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 150,
+        "quantity": 11,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 150,
+        "quantity": 12,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 200,
+        "quantity": 3,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 150,
+        "quantity": 14,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 150,
+        "quantity": 19,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 150,
+        "quantity": 42,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 150,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet męski",
+        "price": 5500,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 182,
+        "type": "normal"
+      }
+    ],
+    "total": 79525,
+    "discord_message_id": "1425121825754448022"
+  },
+  {
+    "date": "2025-10-14 01:17:12",
+    "items": [
+      {
+        "name": "Balon w kształcie serca",
+        "price": 50,
+        "quantity": 32,
+        "type": "normal"
+      },
+      {
+        "name": "Bombonierka",
+        "price": 75,
+        "quantity": 11,
+        "type": "normal"
+      },
+      {
+        "name": "Cygaro",
+        "price": 125,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Mały bukiet kwiatów",
+        "price": 55,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Mały prezent",
+        "price": 85,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Spadochron",
+        "price": 2500,
+        "quantity": 7,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowa kapibara",
+        "price": 150,
+        "quantity": 14,
+        "type": "normal"
+      },
+      {
+        "name": "Szampan",
+        "price": 150,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Kostka",
+        "price": 500,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Srebrny pierścionek",
+        "price": 4500,
+        "quantity": 10,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy dinozaur",
+        "price": 150,
+        "quantity": 13,
+        "type": "normal"
+      },
+      {
+        "name": "Whiskey",
+        "price": 150,
+        "quantity": 40,
+        "type": "normal"
+      },
+      {
+        "name": "Prezent",
+        "price": 200,
+        "quantity": 14,
+        "type": "normal"
+      },
+      {
+        "name": "Bukiet kwiatów",
+        "price": 150,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Pluszowy miś",
+        "price": 150,
+        "quantity": 11,
+        "type": "normal"
+      },
+      {
+        "name": "Wódka",
+        "price": 150,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Wino",
+        "price": 150,
+        "quantity": 20,
+        "type": "normal"
+      },
+      {
+        "name": "Pierścionek zaręczynowy",
+        "price": 5000,
+        "quantity": 4,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet męski",
+        "price": 5500,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Sygnet damski",
+        "price": 5500,
+        "quantity": 5,
+        "type": "normal"
+      },
+      {
+        "name": "Piłka",
+        "price": 50,
+        "quantity": 500,
+        "type": "normal"
+      }
+    ],
+    "total": 196500,
+    "discord_message_id": "1427435032544280649"
+  }
+]

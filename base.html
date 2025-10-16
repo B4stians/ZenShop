@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Zen Events</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    nav {
+      display: flex;
+      justify-content: space-between; /* menu z lewej, statystyki z prawej */
+      align-items: center;
+      padding: 10px 15px;
+      background: #2a2a2a;
+      border-bottom: 1px solid #444;
+    }
+    .stats {
+      color: #0f0;
+      font-size: 14px;
+      text-align: right;
+    }
+    .stats span {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+<nav>
+  <div class="menu-left">
+  <a href="{{ url_for('index') }}">Sklep</a> |
+  <a href="{{ url_for('sold') }}">Sprzedane</a> |
+  <a href="{{ url_for('magazyn') }}">Magazyn</a> |
+  <a href="{{ url_for('zakupy') }}">Paragony Magazyn</a>
+</div>
+
+  <div class="stats">
+  <span>💼 Konto: {{ "{:,.0f}".format(business_balance) }} $</span>
+  <span>📊 Sprzedaż (Sklep): {{ "{:,.0f}".format(total_sales_amount) }} $</span>
+  <span>🛒 Produkty (Sklep): {{ total_items }}</span>
+  <span>📦 Wydatki (Magazyn): {{ "{:,.0f}".format(total_warehouse_amount) }} $</span>
+</div>
+
+</nav>
+<hr>
+{% block content %}{% endblock %}
+</body>
+</html>
