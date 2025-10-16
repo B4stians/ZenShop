@@ -17,7 +17,7 @@ DISCORD_WAREHOUSE_WEBHOOK_URL = "https://discord.com/api/webhooks/14285142339724
 
 DISCORD_CLIENT_ID = "1428511297372291072"
 DISCORD_CLIENT_SECRET = "L6jCKKGdzg-4jhxS7VZ5SNeOo0nBNVhW"
-DISCORD_REDIRECT_URI = "https://sklepzenevents.pythonanywhere.com/discord/callback"  # dostosuj do produkcji
+DISCORD_REDIRECT_URI = "https://zenshop.onrender.com/discord/callback"  # dostosuj do produkcji
 DISCORD_OAUTH_SCOPE = "identify"
 DISCORD_API_BASE = "https://discord.com/api"
 
